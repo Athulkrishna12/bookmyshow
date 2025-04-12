@@ -1,0 +1,403 @@
+.main{
+    width: 100%;
+    height: 100vh;
+ 
+}
+body{
+    margin: ;
+}
+.left{
+    display: flex;
+    width: 60%;
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.nav0{
+    width: 20px;
+    height: 100%;
+}
+.nav1{
+    width: 100%;height: 64px;
+    display: flex;
+    background-color: white;
+}
+.searchbar{
+        border: 1px solid rgb(238, 238, 238);
+        width: 60%;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        border-radius: 10px;
+    }
+    .search{
+        width: 90%;
+        height: 90%;
+        align-items: center;
+        justify-content: center;
+    }
+    .right{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .placeselection{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      
+    
+    }
+    .guestsection{
+        display: flex;
+        width: 30%;
+        height: 90%;
+        justify-content: space-around;
+        align-items: center;
+        padding: 30px;
+    }
+    .movies{
+        width: 100%;
+        height: 400px;
+        display: flex;
+        justify-content: space-between;
+        
+    }
+.mov1{
+    width: 15%;
+    height: 400px;
+    
+}
+.mov2{
+    width: 15%;
+    height: 400px; 
+}
+.mov3{
+    width: 15%;
+    height: 400px; 
+}
+.mov4{
+    width: 15%;
+    height: 400px;
+}
+.mov5{
+    width: 15%;
+    height: 400px; 
+}
+ .mov{
+    width: 100%;
+    height: 800px;
+ }
+ .bar{
+    width: 100%;
+    height: 250px;
+ }
+.bar1{
+    width: 15%;
+    height: 80%;
+}
+.bar2{
+    width: 15%;
+    height: 80%;
+}
+.bar3{
+    width: 15%;
+    height: 80%;
+}
+.bar4{
+    width: 15%;
+    height: 80%;
+}
+.bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bar5{
+    width: 15%;
+    height: 80%;
+}
+.mov0{
+    width: 5%;
+    height: 400px; 
+}
+.my{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.my2{
+width: 80px;
+}
+.my3{
+    width: 80px;
+}
+.mov6{
+    width: 5%;
+    height: 400px; 
+}
+.demo{
+    width: 100%;
+    height: 100%;
+}
+.dem2{
+    width: 80px;
+    height: 100%;
+}
+.demo{
+    display: flex;
+}
+.hi{
+    display: flex;
+}
+
+.pre2{
+    background-color:  rgb(43,49,72);
+    color: white;
+    display: flex;
+    
+}
+.pre{
+    background-color: rgb(43,49,72);
+    width: 100%;
+    height: 570px;
+}
+.pre3{
+    display: flex;
+}
+.pic{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav3{
+ width: 100%;
+ height: 50px;
+   display: flex;
+   font-weight: 400;
+   justify-content: space-between;
+   align-items: center;
+   background-color:    rgb(245, 245, 245)
+
+}
+.nav4{
+    background-color:    rgb(245, 245, 245);
+    width: 100%;
+    height: 50px;
+    font-size: 14px;
+    cursor: pointer;
+    display: flex;
+    font-weight: 400;
+    justify-content: space-between;
+    align-items: center;
+ }
+ .nav5{
+    background-color:    rgb(245, 245, 245);
+    width: 100%;
+    height: 50px;
+    font-size: 14px;
+    cursor: pointer;
+    display: flex;
+    font-weight: 400;
+    justify-content: space-between;
+    align-items: center;
+ }
+ .nav{
+    display: flex;
+    font-size: 12px;
+    color: rgb(51, 51, 51);
+ }
+
+ 
+ .mus1{
+    width: 100%;
+    height: 600px;
+  
+ }
+ .mus3{
+    width: 15%;
+    height: 300px;
+ }
+ .mus4{
+    width: 15%;
+    height: 300px;
+ }.mus5{
+    width: 15%;
+    height: 300px;
+ }
+ .mus6{
+    width: 15%;
+    height: 300px;
+ }
+ .games{
+    width: 100%;
+    height: px;
+ }
+ .gam1{
+    display: flex;
+ }
+ .gam2{
+    width: 100%;
+    height: 600px;
+ } 
+ .gam3{
+    width: 15%;
+    height: 300px;  
+ }
+ .gam4{
+    width: 15%;
+    height: 300px;
+ }
+ .gam5{
+    width: 15%;
+    height: 300px;
+ }
+ .gam5{
+    width: 15%;
+    height: 300px;
+ }
+ .gam6{
+    width: 15%;
+    height: 300px;
+ }
+ .gam7{
+    width: 15%;
+    height: 300px;
+ }
+ .mus7{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+ }
+ .mus2{
+    display: flex;
+ }
+
+ .gam8{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+ }
+.gam2{
+    width: 100%;
+height: 600px;
+}
+.games{
+    display: flex;
+}
+.the{
+    width: 100%;
+    height: 600px;
+}
+.the1{
+    display: flex;
+    height: 0px;
+}
+.the2{
+    width: 100%;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.the3{
+    width: 15%;
+    height: 300px;
+ }
+ .the4{
+    width: 15%;
+    height: 300px;
+ }
+ .the5{
+    width: 15%;
+    height: 300px;
+ }
+ .the6{
+    width: 15%;
+    height: 300px;
+ }
+ .the7{
+    width: 15%;
+    height: 300px;
+ }
+ .pop{
+    width: 100%;
+    height: 500px;
+ }
+ .pop1{
+    display: flex;
+ }
+ .pop2{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.pop3{
+    width: 15%;
+    height: 300px;
+ }
+ .pop4{
+    width: 15%;
+    height: 300px;
+ }
+ .pop5{
+    width: 15%;
+    height: 300px;
+ }
+ .pop6{
+    width: 15%;
+    height: 300px;
+ }
+ .pop7{
+    width: 15%;
+    height: 300px;
+ }
+ .top{
+    width: 100%;
+    height: 500px;
+ }
+ .top1{
+    display: flex;
+ }
+ .top2{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.top3{
+    width: 15%;
+    height: 300px;
+ }
+ .top4{
+    width: 15%;
+    height: 300px;
+ }
+ .top5{
+    width: 15%;
+    height: 300px;
+ }
+ .top6{
+    width: 15%;
+    height: 300px;
+ }
+ .top7{
+    width: 15%;
+    height: 300px;
+ }
+
+
+
+ 
+ 
+  
